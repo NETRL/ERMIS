@@ -95,6 +95,6 @@ For more information, please contact the coordinator:
 
 **Dr. Marios Raspopoulos**  
 InSPIRE Research Centre  
-📧 info@inspirecenter.org  
+📧 mraspopoulos@uclan.ac.uk  
 🌐 http://inspirecenter.org/
 
