@@ -1,6 +1,5 @@
 ![Banner](/images/Ermisbanner.png)
 
-#![ERMIS Logo](/images/ermis_logo.png)
 # ERMIS – AdvancemEnts in 3D IndooR Positioning Methods and ApplicatIons for Next-Gen Communication Systems
 
 **ERMIS** is a 24-month research initiative aiming to push the boundaries of 3D indoor positioning using state-of-the-art wireless technologies and AI-driven methods. The project integrates **Machine Learning**, **Reconfigurable Intelligent Surfaces (RIS)**, **mmWave radar sensing**, and **IEEE 802.11az-based Fine Time Measurement (FTM)** to achieve sub-meter positioning accuracy in complex environments.
