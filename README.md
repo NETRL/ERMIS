@@ -69,7 +69,21 @@ The project develops and validates techniques in lab settings and demonstrates t
 
 ## 📚 Publications
 
--
+### Journal Papers
+
+1. I. Ioannou, V. Vassiliou, and M. Raspopoulos, "Adaptive Multi-Stage Hybrid Localization for RIS-Aided 6G Indoor Positioning Systems: Combining Fingerprinting and Geometric Methods with Condition-Aware Fusion," *Sensors*, vol. 26, no. 4, p. 1084, Feb. 2026. DOI: [10.3390/s26041084](https://doi.org/10.3390/s26041084)
+
+2. I. Ioannou, V. Vassiliou, C. Christophorou, A. Gregoriades, M. Raspopoulos, P. Nagaradjane, and V. Vassiliou, "Access Point Selection and Localization for Cluster-Based Realization of a Device-to-Device Cell-Free 6G Communications Network," *IET Communications*, Oct. 2025. DOI: [10.1049/cmu2.70096](https://doi.org/10.1049/cmu2.70096)
+
+### Conference Papers
+
+1. M. Raspopoulos, A. Sesyuk, and I. Ioannou, "3D millimeter-Wave Multi-Target Sensing," in *Proc. 2025 International Conference on Indoor Positioning and Indoor Navigation (IPIN)*, pp. 1–6, 2025, IEEE.
+
+2. I. Ioannou, P. Nagaradjane, M. Raspopoulos, V. Papadopoulou-Lesta, C. Christophorou, A. Khalifeh, and V. Vassiliou, "Topology-Aware Deep Reinforcement Learning for RIS Beamforming: A GNN-PPO and Risk-Sensitive Evaluation," in *Proc. 2025 Asian Conference on Communication and Networks (ASIANComNet)*, 2025, IEEE.
+
+3. M. Raspopoulos, I. Ioannou, and L. Nisiotis, "mmWave-Based Crowd Sensing for Metaverse Applications," in *Proc. 2025 IEEE International Symposium on Emerging Metaverse (ISEMV)*, pp. 46–54, 2025, IEEE.
+
+---
 
 ## 🌐 Consortium
 
@@ -96,4 +110,3 @@ For more information, please contact the coordinator:
 InSPIRE Research Centre  
 📧 mraspopoulos@inspirecenter.org 
 🌐 http://inspirecenter.org/
-
